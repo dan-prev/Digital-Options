@@ -11,4 +11,3 @@ Digital options offer several advantages, including simplicity and predefined ri
 
 
 However, it's important to note that digital options are considered high-risk instruments due to their binary nature and potential for significant losses. They are also subject to market volatility, liquidity issues, and regulatory risks. As with any form of trading or investing, careful analysis, risk management, and understanding of the underlying assets and market conditions are crucial when trading digital options.
-
