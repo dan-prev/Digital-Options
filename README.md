@@ -1,4 +1,4 @@
-Binary Options
+**Binary Options**
 
 Digital options, also known as binary options, are a type of financial derivative that provides traders with a simple yet potentially profitable way to speculate on the price movements of various assets, such as stocks, currencies, commodities, and indices. Unlike traditional options that offer varying degrees of profit or loss based on the magnitude of price movements, digital options have a fixed payout and are structured as a "yes" or "no" proposition.
 
